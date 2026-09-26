@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b4eae3b50405c2d3",
+        "id": "62bc5510827deaac",
         "type": "tabs",
         "children": [
           {
-            "id": "f98d25c444a087c8",
+            "id": "5f71b1d73a57d3a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md",
-                "mode": "source",
-                "source": true
+                "file": "bases/util/다이어리 최근 작성된 노트.base",
+                "viewName": "Daily"
               },
-              "icon": "lucide-file",
-              "title": "2026년 09월 26일"
+              "icon": "lucide-table",
+              "title": "다이어리 최근 작성된 노트"
             }
           }
         ]
@@ -55,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#다이어리",
+                "query": "xW898vc3GuyJgnXZDMmAjxjAmzXUeEpQCrRKWjNNs_P6_XH0bclgTgs1ER8hvnQPVVvYmZq54v1otC_OaYkkgbxJ5yI58mRYcQlzYMVnDuUpUzYXkb83eJHWsRmvppBU3379JrTa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md",
+                "file": "bases/util/다이어리 최근 작성된 노트.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md",
+                "file": "bases/util/다이어리 최근 작성된 노트.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md",
+                "file": "bases/util/다이어리 최근 작성된 노트.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md"
+                "file": "bases/util/다이어리 최근 작성된 노트.base"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -225,8 +224,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
@@ -234,55 +233,56 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "f98d25c444a087c8",
+  "active": "5f71b1d73a57d3a5",
   "lastOpenFiles": [
-    "templates/1. 다이어리/1. 일간/daily-template.md",
-    "templates/1. 다이어리/2. 주간/weekly-template.md",
-    "templates/1. 다이어리/3. 월간/monthly-template.md",
-    "templates/1. 다이어리/4. 연간/yearly-template.md",
-    "bases/util/다이어리 최근 작성된 노트.base",
-    "bases",
-    "bases/util",
-    "sidebar-base/Untitled.md",
-    "bases/sidebar/링크 확인.base",
-    "bases/sidebar",
-    "최근 생성 및 수정된 노트.base",
-    "2. 공부/디자인/웹 디자인/용어.md",
-    "3. 독서/독서 노트/세컨드 브레인은 옵시디언 with 클로드 코드.md",
-    "templates/3. 독서/reading_book_template.md",
-    "test.md",
-    "3. 독서/독서 노트 둘러보기.base",
-    "3. 독서/독서 노트",
-    "3. 독서/독서 노트",
-    "3. 독서/README.md",
-    "1. 다이어리/2. 주간/README.md",
-    "1. 다이어리/1. 일간/README.md",
-    "1. 다이어리/README.md",
-    "templates/3. 독서",
-    "PROJECT_IDEA.md",
-    "templates/1. 다이어리/4. 연간/README.md",
-    "templates/1. 다이어리/3. 월간/README.md",
-    "templates/1. 다이어리/2. 주간/README.md",
-    "templates/1. 다이어리/1. 일간/README.md",
-    "templates/1. 다이어리/1. 일간/2026년 09월 26일.md",
-    "1. 다이어리/1. 일간/2026년 09월 26일.md",
-    "2026년 09월 26일.md",
-    "1. 다이어리/4. 연간/README.md",
-    "2. 공부/디자인/웹 디자인/디자인 시스템/와이어프레임.md",
-    "2. 공부/디자인/웹 디자인/디자인 시스템/그리드 시스템.md",
-    "2. 공부/디자인/공부.md",
-    "2. 공부/디자인/웹 디자인/img/Carousel.png",
-    "2. 공부/디자인/웹 디자인/img/Accordion.png",
-    "2. 공부/디자인/웹 디자인/심리학/images/근접성의 원리 highlighted.png",
-    "2. 공부/디자인/웹 디자인/심리학/images/유사성의 원리 highlighted.png",
-    "2. 공부/디자인/웹 디자인/심리학/images/공통 영역의 원리.png",
-    "2. 공부/디자인/웹 디자인/심리학/images/연속성의 원리.png",
-    "2. 공부/디자인/웹 디자인/심리학/images/근접성의 원리.png",
-    "2. 공부/디자인/웹 디자인/심리학/images/유사성의 원리.png",
-    "2. 공부/디자인/웹 디자인/디자인 시스템/images/고정되어야 하는 단위.png",
-    "2. 공부/디자인/웹 디자인/디자인 시스템/images/컬럼.png"
+    "bases/README.md",
+    "6. Zettelkasten/README.md",
+    "6. Zettelkasten/Structure",
+    "6. Zettelkasten/Reference",
+    "6. Zettelkasten/Permanent",
+    "6. Zettelkasten/Untitled.md",
+    "4. Archive/README.md",
+    "6. Zettelkasten",
+    "5. Inbox",
+    "3. Resource/README.md",
+    "3. Resource/독서/README.md",
+    "3. Resource/공부/README.md",
+    "3. Resource/공부/공부 우선 순위.md",
+    "3. Resource/공부/디자인/README.md",
+    "3. Resource/공부/디자인/웹 디자인/용어.md",
+    "4. Archive/Resource/JavaScript-nomadcoders/1 Introduction.md",
+    "3. Resource/공부/디자인/일단 적을 것.md",
+    "3. Resource/공부/디자인/디자인에 좋은 사이트.md",
+    "2. Area/README.md",
+    "2. Area/다이어리/README.md",
+    "1. Project/README.md",
+    "templates/README.md",
+    "canvas/README.md",
+    "excalidraw/README.md",
+    "README.md",
+    "3. Resource/독서/독서 노트 둘러보기.base",
+    "4. Archive/Resource/BE-old/백엔드 정리.md",
+    "4. Archive/Resource/BE-old/images/OSI모델구조도-1-1024x374.png",
+    "4. Archive/Resource/BE-old/images",
+    "4. Archive/Resource/BE-old/URL-URI.md",
+    "4. Archive/Resource/BE-old/백엔드 정리 - 기술노트with 알렉.md",
+    "4. Archive/Resource/BE-old/HTTP-HTTPS.md",
+    "4. Archive/Resource/BE-old/Handshake.md",
+    "4. Archive/Resource/BE-old/images/-----------2021-07-12------11.36.22.png",
+    "4. Archive/Resource/BE-old/images/img1.daumcdn.png",
+    "4. Archive/Resource/BE-old/images/image 202.png",
+    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/image 190.png",
+    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/images.jpg",
+    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/image 181.png",
+    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/image 165.png",
+    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/QRCJUDYW1KaMOlZzd9CO9NWXlB4VqWX-TUaKkDjCbFQTvX6ZtRZAH9r2-LzcVglPHHBnAQsdfqW-w3hHJKjEgQ.webp",
+    "4. Archive/Resource/JavaScript-nomadcoders/images/image 62.png",
+    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images",
+    "4. Archive/Resource/JavaScript-nomadcoders/images",
+    "4. Archive/Resource/React-nomadcoders/images"
   ]
 }

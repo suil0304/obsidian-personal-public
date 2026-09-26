@@ -1,0 +1,1 @@
+모든 Obsidian templates를 저장하는 디렉터리.

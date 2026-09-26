@@ -1,0 +1,37 @@
+{
+  "secrets": {
+    "notion-api": "notion-api-token"
+  },
+  "outputLocations": {},
+  "outputSettings": {
+    "notion": {
+      "folder": "Notion",
+      "attachments": {
+        "mode": "folder",
+        "path": "notion_imported"
+      },
+      "duplicates": "update",
+      "saveSourceId": true,
+      "idProperty": "notion-id",
+      "template": "",
+      "titleTemplate": "{{title}}"
+    },
+    "notion-api": {
+      "folder": "Notion",
+      "attachments": {
+        "mode": "folder",
+        "path": "notion_inported"
+      },
+      "duplicates": "update",
+      "saveSourceId": true,
+      "idProperty": "notion-id",
+      "template": "",
+      "titleTemplate": "{{title}}"
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {
+    "notion": "C:\\Users\\User\\Downloads"
+  },
+  "lastSourceFolder": "C:\\Users\\User\\Downloads"
+}

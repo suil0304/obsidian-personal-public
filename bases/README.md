@@ -1,0 +1,1 @@
+모든 전역 Obsidian bases를 저장하는 디렉터리.
