@@ -4,9 +4,7 @@ tags:
 ---
 
 # 오늘 할 일
-- [ ] Obsidian 설정([세컨드 브레인은 옵시디언 with 클로드 코드](https://product.kyobobook.co.kr/detail/S000219568684)을 바탕으로)
-- [ ] 디자인 공부
-- [ ] tech-wiki 디자인 구상(시간이 있다면)
+- [ ]
 
 # 오늘 한 일
 

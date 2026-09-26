@@ -4,19 +4,19 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YYYY년 MM월 DD일",
-    "template": "1. 다이어리/templates/daily-template.md",
+    "template": "templates/1. 다이어리/1. 일간/daily-template.md",
     "folder": "1. 다이어리/1. 일간",
     "enabled": true
   },
   "weekly": {
     "format": "YYYY년 WW주",
-    "template": "1. 다이어리/templates/weekly-template.md",
+    "template": "templates/1. 다이어리/2. 주간/weekly-template.md",
     "folder": "1. 다이어리/2. 주간",
     "enabled": true
   },
   "monthly": {
     "format": "YYYY년 MM월",
-    "template": "1. 다이어리/templates/monthly-template.md",
+    "template": "templates/1. 다이어리/3. 월간/monthly-template.md",
     "folder": "1. 다이어리/3. 월간",
     "enabled": true
   },
@@ -27,7 +27,7 @@
   },
   "yearly": {
     "format": "YYYY년",
-    "template": "1. 다이어리/templates/yearly-template.md",
+    "template": "templates/1. 다이어리/4. 연간/yearly-template.md",
     "folder": "1. 다이어리/4. 연간",
     "enabled": true
   }

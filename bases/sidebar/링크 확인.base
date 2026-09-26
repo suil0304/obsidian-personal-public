@@ -1,0 +1,30 @@
+formulas:
+  link direction: |-
+    if(
+        file.hasLink(this.file)
+        && this.file.links.contains(file),
+        "상호 링크",
+        if(
+            file.hasLink(this.file),
+            "링크 당함",
+            if(
+                this.file.links.contains(file),
+                "링크 중"
+            )
+        )
+    )
+views:
+  - type: list
+    name: Link Direction
+    filters:
+      and:
+        - '!formula["link direction"].isEmpty()'
+    groupBy:
+      property: formula.link direction
+      direction: ASC
+    order:
+      - file.name
+      - formula.link direction
+    markers: bullet
+    indentProperties: false
+    separator: " "

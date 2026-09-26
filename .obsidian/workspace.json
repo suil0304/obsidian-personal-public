@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5feedd49dbafaf63",
+        "id": "b4eae3b50405c2d3",
         "type": "tabs",
         "children": [
           {
-            "id": "e803482d9a0df8ff",
+            "id": "f98d25c444a087c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026년 09월 26일"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,6 +189,31 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "38e087ca899f0460",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "1. 다이어리/1. 일간/2026년 09월 26일.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "07de354267ae4915",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "bases/sidebar/링크 확인.base",
+                "viewName": "Link Direction"
+              },
+              "icon": "lucide-list",
+              "title": "링크 확인"
+            }
           }
         ],
         "currentTab": 6
@@ -205,23 +237,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7154059aac0302ed",
+  "active": "f98d25c444a087c8",
   "lastOpenFiles": [
-    "1. 다이어리/1. 일간/2026년 09월 26일.md",
-    "PROJECT_IDEA.md",
-    "test.md",
-    "1. 다이어리/templates/daily-template.md",
-    "1. 다이어리/templates/yearly-template.md",
-    "1. 다이어리/templates/weekly-template.md",
-    "1. 다이어리/templates/monthly-template.md",
-    "2. 공부/공부 우선 순위.md",
+    "templates/1. 다이어리/1. 일간/daily-template.md",
+    "templates/1. 다이어리/2. 주간/weekly-template.md",
+    "templates/1. 다이어리/3. 월간/monthly-template.md",
+    "templates/1. 다이어리/4. 연간/yearly-template.md",
+    "bases/util/다이어리 최근 작성된 노트.base",
+    "bases",
+    "bases/util",
+    "sidebar-base/Untitled.md",
+    "bases/sidebar/링크 확인.base",
+    "bases/sidebar",
+    "최근 생성 및 수정된 노트.base",
     "2. 공부/디자인/웹 디자인/용어.md",
-    "2. 공부/디자인/웹 디자인/심리학/게슈탈트 이론.md",
+    "3. 독서/독서 노트/세컨드 브레인은 옵시디언 with 클로드 코드.md",
+    "templates/3. 독서/reading_book_template.md",
+    "test.md",
+    "3. 독서/독서 노트 둘러보기.base",
+    "3. 독서/독서 노트",
+    "3. 독서/독서 노트",
+    "3. 독서/README.md",
+    "1. 다이어리/2. 주간/README.md",
+    "1. 다이어리/1. 일간/README.md",
+    "1. 다이어리/README.md",
+    "templates/3. 독서",
+    "PROJECT_IDEA.md",
+    "templates/1. 다이어리/4. 연간/README.md",
+    "templates/1. 다이어리/3. 월간/README.md",
+    "templates/1. 다이어리/2. 주간/README.md",
+    "templates/1. 다이어리/1. 일간/README.md",
+    "templates/1. 다이어리/1. 일간/2026년 09월 26일.md",
+    "1. 다이어리/1. 일간/2026년 09월 26일.md",
+    "2026년 09월 26일.md",
+    "1. 다이어리/4. 연간/README.md",
     "2. 공부/디자인/웹 디자인/디자인 시스템/와이어프레임.md",
     "2. 공부/디자인/웹 디자인/디자인 시스템/그리드 시스템.md",
     "2. 공부/디자인/공부.md",
-    "2. 공부/디자인/디자인에 좋은 사이트.md",
-    "2. 공부/디자인/일단 적을 것.md",
     "2. 공부/디자인/웹 디자인/img/Carousel.png",
     "2. 공부/디자인/웹 디자인/img/Accordion.png",
     "2. 공부/디자인/웹 디자인/심리학/images/근접성의 원리 highlighted.png",
@@ -231,26 +283,6 @@
     "2. 공부/디자인/웹 디자인/심리학/images/근접성의 원리.png",
     "2. 공부/디자인/웹 디자인/심리학/images/유사성의 원리.png",
     "2. 공부/디자인/웹 디자인/디자인 시스템/images/고정되어야 하는 단위.png",
-    "2. 공부/디자인/웹 디자인/디자인 시스템/images/컬럼.png",
-    "2. 공부/디자인/웹 디자인/디자인 시스템/images",
-    "2. 공부/디자인/웹 디자인/심리학/images",
-    "1. 다이어리/templates",
-    "1. 다이어리/4. 연간",
-    "1. 다이어리/3. 월간",
-    "1. 다이어리/2. 주간",
-    "Untitled",
-    "1. 다이어리/1. 일간",
-    "_학교 과제/1209_이세빈_풍력발전의특징.md",
-    ".obsidian/plugins/periodic-notes/styles.css",
-    ".obsidian/plugins/periodic-notes/manifest.json",
-    "Untitled.md",
-    "_학교 과제/1209_이세빈_물부족문제해결을위한과학의역할.md",
-    "_자격증 시험 준비/ADsP/3과목/5장/2. 분류분석.md",
-    "자격증 시험 준비/ADsP/3과목/무제.md",
-    "_실낙원/IOCP.md",
-    "_자격증 시험 준비/ADsP/3과목/5장/1. 데이터마이닝의 개요.md",
-    "_실낙원/Process와 Thread의 차이.md",
-    "_실낙원/서버 멘토링.md",
-    "실낙원/sick.md"
+    "2. 공부/디자인/웹 디자인/디자인 시스템/images/컬럼.png"
   ]
 }

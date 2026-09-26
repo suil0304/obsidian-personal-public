@@ -1,0 +1,42 @@
+views:
+  - type: table
+    name: Daily
+    filters:
+      and:
+        - file.ctime.date() == this.file.ctime.date()
+        - file != this.file
+    order:
+      - file.name
+      - file.ctime
+    limit: 10
+  - type: table
+    name: Weekly
+    filters:
+      and:
+        - (file.ctime.date().timestamp / 1000 / 60 / 60 / 24 / 7).floor() == (this.file.ctime.date().timestamp / 1000 / 60 / 60 / 24 / 7).floor()
+        - file != this.file
+    order:
+      - file.name
+      - file.ctime
+    limit: 15
+  - type: table
+    name: Monthly
+    filters:
+      and:
+        - file.ctime.date().year == this.file.ctime.date().year
+        - file.ctime.date().month == this.file.ctime.date().month
+        - file != this.file
+    order:
+      - file.name
+      - file.ctime
+    limit: 20
+  - type: table
+    name: Yearly
+    filters:
+      and:
+        - file.ctime.date().year == this.file.ctime.date().year
+        - file != this.file
+    order:
+      - file.name
+      - file.ctime
+    limit: 30

@@ -1,0 +1,16 @@
+views:
+  - type: cards
+    name: Books
+    filters:
+      and:
+        - file.folder == "3. 독서/독서 노트"
+        - file.ext == "md"
+    order:
+      - file.name
+      - aliases
+      - 출판사
+      - 저자
+      - 총 페이지 수
+      - 출간일
+    image: note.커버 이미지 url
+    cardSize: 220

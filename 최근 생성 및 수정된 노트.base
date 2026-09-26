@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+    order:
+      - file.path
+      - file.name
+      - file.mtime
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 15
+    columnSize:
+      file.path: 158
+      file.name: 549
+      file.mtime: 186
