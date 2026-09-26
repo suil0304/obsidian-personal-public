@@ -11,10 +11,14 @@
             "id": "66fafe59ee0fd8c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "6. Zettelkasten/Reference/공개방이라.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "공개방이라"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6. Zettelkasten/Reference/공개방이라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6. Zettelkasten/Reference/공개방이라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6. Zettelkasten/Reference/공개방이라.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "6. Zettelkasten/Reference/공개방이라.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -231,6 +240,9 @@
   },
   "active": "7154059aac0302ed",
   "lastOpenFiles": [
+    "6. Zettelkasten/Reference/V-Slice 네트워킹에 대하여.md",
+    "6. Zettelkasten/Reference/공개방이라.md",
+    "templates/제텔카스텐/zettelkasten_reference_template.md",
     "4. Archive/Resource/NestJS-nomadcoders/2 REST API.md",
     "4. Archive/Resource/React-nomadcoders/React 정리(nomadcoders).md",
     "4. Archive/Resource/NestJS-nomadcoders/NestJS 정리(nomadcoders).md",
@@ -253,7 +265,6 @@
     "2. Area/다이어리/1. 일간/README.md",
     "2. Area/다이어리/2. 주간/README.md",
     "bases/util/다이어리 최근 작성된 노트.base",
-    "templates/제텔카스텐/zettelkasten_reference_template.md",
     "templates/제텔카스텐",
     "6. Zettelkasten/README.md",
     "6. Zettelkasten/Structure",
@@ -264,8 +275,6 @@
     "6. Zettelkasten",
     "5. Inbox",
     "3. Resource/독서/README.md",
-    "3. Resource/공부/README.md",
-    "3. Resource/공부/공부 우선 순위.md",
     "3. Resource/독서/독서 노트 둘러보기.base",
     "4. Archive/Resource/BE-old/images/OSI모델구조도-1-1024x374.png",
     "4. Archive/Resource/BE-old/images",
