@@ -22,17 +22,24 @@
       }
     },
     {
-      "query": "path:\"1. 다이어리/1. 일간\"  ",
+      "query": "path:\"2. Area/다이어리\"  ",
       "color": {
         "a": 1,
         "rgb": 16762880
       }
     },
     {
-      "query": "path:\"2. 공부/디자인\"  ",
+      "query": "path:\"3. Resource\"  ",
       "color": {
         "a": 1,
         "rgb": 1301996
+      }
+    },
+    {
+      "query": "path:\"4. Archive/Resource\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11010048
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 12.5300416905093,
   "linkStrength": 1,
   "linkDistance": 125,
-  "scale": 0.999999999999998,
+  "scale": 0.3628873693012061,
   "close": true
 }

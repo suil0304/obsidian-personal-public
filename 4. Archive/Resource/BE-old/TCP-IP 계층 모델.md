@@ -17,7 +17,7 @@ OSI OSI 이러면서 이론적인 부분 챙기고 있을 때 TCP와 IP가 먼�
 > > *우리 애가 철이 덜 들어서 그랬어요*
 > > 
 > > - **연결지향**:
-> >     [**Handshake**](/3520c07c854380338c74f35dd8c3b49c)의 **TCP 3-Way Handshake(네트워크 기초)** 제목 토글 참조
+> >     [[Handshake]]의 **TCP 3-Way Handshake(네트워크 기초)** 제목 토글 참조
 > > - **신뢰성 보장**:
 > >     데이터상 코코니 이마스까?
 > > 에?
@@ -134,26 +134,29 @@ OSI OSI 이러면서 이론적인 부분 챙기고 있을 때 TCP와 IP가 먼�
 > > [!note]+ ### 5. 응용(Application)
 > > OSI의 응용, 표현, 세션 계층을 전부 합쳤음
 > > 
-> > [**OSI 응용 계층**](/3570c07c854380668fa6f34dc5991f39#3580c07c854380bfa7b6e61f5b0d8146)** **하이퍼링크**
-> > **[**OSI 표현 계층**](/3570c07c854380668fa6f34dc5991f39#3580c07c8543806c8107e591aa7cf3b6)** **하이퍼링크**
-> > **[**OSI 세션 계층**](/3570c07c854380668fa6f34dc5991f39#3580c07c854380dc90cbf38da7507ba0)** **하이퍼링크
+> > [[OSI 7계층(Open Systems Interconnection 7 Layer)]]
+> > 응용, 표현, 세션
 > 
 > > [!note]+ ### 4. 전송(Transport)
 > > OSI의 전송 계층
 > > 
-> > [**OSI 전송 계층**](/3570c07c854380668fa6f34dc5991f39#3580c07c8543804ba1d2fe852f3b8be7)** **하이퍼링크
+> > [[OSI 7계층(Open Systems Interconnection 7 Layer)]]
+> > 전송
 > 
 > > [!note]+ ### 3. 네트워크/인터넷(Network/Internet)
 > > OSI의 네트워크 계층
 > > 
-> > [**OSI 네트워크 계층**](/3570c07c854380668fa6f34dc5991f39#3580c07c854380db876dd3e62bf5c925)** **하이퍼링크
+> > [[OSI 7계층(Open Systems Interconnection 7 Layer)]]
+> > 네트워크
 > 
 > > [!note]+ ### 2. 데이터링크(Data Link)
 > > OSI의 데이터링크 계층
 > > 
-> > [**OSI 데이터링크 계층**](/3570c07c854380668fa6f34dc5991f39#3570c07c85438001beb6f3eb1b2f8a9b) 하이퍼링크
+> > [[OSI 7계층(Open Systems Interconnection 7 Layer)]]
+> > 데이터링크
 > 
 > > [!note]+ ### 1. 물리(Physical)
 > > OSI의 물리 계층
 > > 
-> > [**OSI 물리 계층**](/3570c07c854380668fa6f34dc5991f39#3570c07c854380d08b7fd63c4e22acef) 하이퍼링크
+> > [[OSI 7계층(Open Systems Interconnection 7 Layer)]]
+> > 물리

@@ -5,19 +5,19 @@
   "daily": {
     "format": "YYYY년 MM월 DD일",
     "template": "templates/다이어리/daily-template.md",
-    "folder": "2. Areas/다이어리/1. 일간",
+    "folder": "2. Area/다이어리/1. 일간",
     "enabled": true
   },
   "weekly": {
     "format": "YYYY년 WW주",
     "template": "templates/다이어리/weekly-template.md",
-    "folder": "2. Areas/다이어리/2. 주간",
+    "folder": "2. Area/다이어리/2. 주간",
     "enabled": true
   },
   "monthly": {
     "format": "YYYY년 MM월",
     "template": "templates/다이어리/monthly-template.md",
-    "folder": "2. Areas/다이어리/3. 월간",
+    "folder": "2. Area/다이어리/3. 월간",
     "enabled": true
   },
   "quarterly": {
@@ -28,7 +28,7 @@
   "yearly": {
     "format": "YYYY년",
     "template": "templates/다이어리/yearly-template.md",
-    "folder": "2. Areas/다이어리/4. 연간",
+    "folder": "2. Area/다이어리/4. 연간",
     "enabled": true
   }
 }
