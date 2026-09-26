@@ -1,22 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"2. 공부/디자인\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 177133
+      }
+    },
+    {
+      "query": "path:\"1. 다이어리/1. 일간\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 0.998805247540216,
+  "lineSizeMultiplier": 1.21920193659222,
+  "collapse-forces": false,
+  "centerStrength": 0.58823988755271,
+  "repelStrength": 12.5022316684378,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 145,
+  "scale": 0.9999999999999992,
   "close": true
 }

@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f07fe17e0a3d1cfc",
+        "id": "5feedd49dbafaf63",
         "type": "tabs",
         "children": [
           {
-            "id": "6143df1a2f3cecc2",
+            "id": "e803482d9a0df8ff",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "2. 공부/디자인/웹 디자인/img/Pasted image 20260915182230.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260915182230"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#다이어리",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,42 +201,48 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "6143df1a2f3cecc2",
+  "active": "7154059aac0302ed",
   "lastOpenFiles": [
-    "2. 공부/디자인/웹 디자인/디자인/그리드 시스템.md",
-    "2. 공부/디자인/웹 디자인/디자인/와이어프레임.md",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260910202210.png",
-    "2. 공부/공부 우선 순위.md",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915202627.png",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915202447.png",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915202305.png",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915202236.png",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915201941.png",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915201918.png",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915190104.png",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915182230.png",
-    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915173511.png",
-    "2. 공부/디자인/일단 적을 것.md",
-    "2. 공부/디자인/디자인에 좋은 사이트.md",
-    "2. 공부/디자인/웹 디자인/심리학/게슈탈트 이론.md",
-    "2. 공부/디자인/웹 디자인/용어.md",
-    "_학교 과제/1209_이세빈_풍력발전의특징.md",
-    "2. 공부/디자인/공부.md",
-    ".obsidian/plugins/periodic-notes/styles.css",
-    ".obsidian/plugins/periodic-notes/manifest.json",
-    ".obsidian/plugins/templater-obsidian/styles.css",
-    ".obsidian/plugins/periodic-notes/main.js",
-    ".obsidian/plugins/templater-obsidian/manifest.json",
-    ".obsidian/plugins/unhide/styles.css",
-    ".obsidian/plugins/templater-obsidian/main.js",
-    ".obsidian/plugins/unhide/manifest.json",
-    ".obsidian/plugins/unhide/main.js",
-    ".obsidian/plugins/obsidian-style-settings/styles.css",
+    "1. 다이어리/1. 일간/2026년 09월 26일.md",
     "PROJECT_IDEA.md",
     "test.md",
+    "1. 다이어리/templates/daily-template.md",
+    "1. 다이어리/templates/yearly-template.md",
+    "1. 다이어리/templates/weekly-template.md",
+    "1. 다이어리/templates/monthly-template.md",
+    "2. 공부/공부 우선 순위.md",
+    "2. 공부/디자인/웹 디자인/용어.md",
+    "2. 공부/디자인/웹 디자인/심리학/게슈탈트 이론.md",
+    "2. 공부/디자인/웹 디자인/디자인 시스템/와이어프레임.md",
+    "2. 공부/디자인/웹 디자인/디자인 시스템/그리드 시스템.md",
+    "2. 공부/디자인/공부.md",
+    "2. 공부/디자인/디자인에 좋은 사이트.md",
+    "2. 공부/디자인/일단 적을 것.md",
+    "2. 공부/디자인/웹 디자인/img/Carousel.png",
+    "2. 공부/디자인/웹 디자인/img/Accordion.png",
+    "2. 공부/디자인/웹 디자인/심리학/images/근접성의 원리 highlighted.png",
+    "2. 공부/디자인/웹 디자인/심리학/images/유사성의 원리 highlighted.png",
+    "2. 공부/디자인/웹 디자인/심리학/images/공통 영역의 원리.png",
+    "2. 공부/디자인/웹 디자인/심리학/images/연속성의 원리.png",
+    "2. 공부/디자인/웹 디자인/심리학/images/근접성의 원리.png",
+    "2. 공부/디자인/웹 디자인/심리학/images/유사성의 원리.png",
+    "2. 공부/디자인/웹 디자인/디자인 시스템/images/고정되어야 하는 단위.png",
+    "2. 공부/디자인/웹 디자인/디자인 시스템/images/컬럼.png",
+    "2. 공부/디자인/웹 디자인/디자인 시스템/images",
+    "2. 공부/디자인/웹 디자인/심리학/images",
+    "1. 다이어리/templates",
+    "1. 다이어리/4. 연간",
+    "1. 다이어리/3. 월간",
+    "1. 다이어리/2. 주간",
+    "Untitled",
+    "1. 다이어리/1. 일간",
+    "_학교 과제/1209_이세빈_풍력발전의특징.md",
+    ".obsidian/plugins/periodic-notes/styles.css",
+    ".obsidian/plugins/periodic-notes/manifest.json",
     "Untitled.md",
     "_학교 과제/1209_이세빈_물부족문제해결을위한과학의역할.md",
     "_자격증 시험 준비/ADsP/3과목/5장/2. 분류분석.md",
@@ -247,8 +251,6 @@
     "_자격증 시험 준비/ADsP/3과목/5장/1. 데이터마이닝의 개요.md",
     "_실낙원/Process와 Thread의 차이.md",
     "_실낙원/서버 멘토링.md",
-    "실낙원/sick.md",
-    "환영합니다!.md",
-    "링크를 만들거나.md"
+    "실낙원/sick.md"
   ]
 }
