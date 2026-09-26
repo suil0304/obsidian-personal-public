@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "fc0ea4ad69416924",
+    "type": "split",
+    "children": [
+      {
+        "id": "f07fe17e0a3d1cfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6143df1a2f3cecc2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2. 공부/디자인/웹 디자인/img/Pasted image 20260915182230.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260915182230"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b60e47ab74c302d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed85802582033d3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a6cf668bf4e7056",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1fb04741412d713b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d32e9a988d3201a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5713f870006e2cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "355a8692eda78713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa9f97d3aa071929",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b51223dcc33b8105",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "906ca2ba07c4ed89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b6599f80481de8f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8c00dc16fb960770",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "391f27a253f387d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "7154059aac0302ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "6143df1a2f3cecc2",
+  "lastOpenFiles": [
+    "2. 공부/디자인/웹 디자인/디자인/그리드 시스템.md",
+    "2. 공부/디자인/웹 디자인/디자인/와이어프레임.md",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260910202210.png",
+    "2. 공부/공부 우선 순위.md",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915202627.png",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915202447.png",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915202305.png",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915202236.png",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915201941.png",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915201918.png",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915190104.png",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915182230.png",
+    "2. 공부/디자인/웹 디자인/img/Pasted image 20260915173511.png",
+    "2. 공부/디자인/일단 적을 것.md",
+    "2. 공부/디자인/디자인에 좋은 사이트.md",
+    "2. 공부/디자인/웹 디자인/심리학/게슈탈트 이론.md",
+    "2. 공부/디자인/웹 디자인/용어.md",
+    "_학교 과제/1209_이세빈_풍력발전의특징.md",
+    "2. 공부/디자인/공부.md",
+    ".obsidian/plugins/periodic-notes/styles.css",
+    ".obsidian/plugins/periodic-notes/manifest.json",
+    ".obsidian/plugins/templater-obsidian/styles.css",
+    ".obsidian/plugins/periodic-notes/main.js",
+    ".obsidian/plugins/templater-obsidian/manifest.json",
+    ".obsidian/plugins/unhide/styles.css",
+    ".obsidian/plugins/templater-obsidian/main.js",
+    ".obsidian/plugins/unhide/manifest.json",
+    ".obsidian/plugins/unhide/main.js",
+    ".obsidian/plugins/obsidian-style-settings/styles.css",
+    "PROJECT_IDEA.md",
+    "test.md",
+    "Untitled.md",
+    "_학교 과제/1209_이세빈_물부족문제해결을위한과학의역할.md",
+    "_자격증 시험 준비/ADsP/3과목/5장/2. 분류분석.md",
+    "자격증 시험 준비/ADsP/3과목/무제.md",
+    "_실낙원/IOCP.md",
+    "_자격증 시험 준비/ADsP/3과목/5장/1. 데이터마이닝의 개요.md",
+    "_실낙원/Process와 Thread의 차이.md",
+    "_실낙원/서버 멘토링.md",
+    "실낙원/sick.md",
+    "환영합니다!.md",
+    "링크를 만들거나.md"
+  ]
+}
