@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Zettelkasten/Reference/공개방이라.md",
+                "file": "5. Inbox/임시 노트 2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "공개방이라"
+              "title": "임시 노트 2"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Zettelkasten/Reference/공개방이라.md",
+                "file": "6. Zettelkasten/Reference/V-Slice 네트워킹에 대하여.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Zettelkasten/Reference/공개방이라.md",
+                "file": "6. Zettelkasten/Reference/V-Slice 네트워킹에 대하여.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Zettelkasten/Reference/공개방이라.md",
+                "file": "5. Inbox/임시 노트 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "6. Zettelkasten/Reference/공개방이라.md"
+                "file": "5. Inbox/임시 노트 2.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -234,12 +234,17 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "obsidian-importer:Import notes": false
+      "obsidian-importer:Import notes": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "7154059aac0302ed",
   "lastOpenFiles": [
+    "5. Inbox/임시 노트 1.md",
+    "5. Inbox/임시 노트 2.md",
+    "3. Resource/독서/독서 노트/세컨드 브레인은 옵시디언 with 클로드 코드.md",
+    "2. Area/다이어리/1. 일간/2026년 09월 26일.md",
+    "최근 생성 및 수정된 노트.base",
     "6. Zettelkasten/Reference/V-Slice 네트워킹에 대하여.md",
     "6. Zettelkasten/Reference/공개방이라.md",
     "templates/제텔카스텐/zettelkasten_reference_template.md",
@@ -258,9 +263,7 @@
     "3570c07c854380668fa6f34dc5991f39.md",
     "3520c07c854380338c74f35dd8c3b49c.md",
     "4. Archive/Resource/BE-old/OSI 7계층(Open Systems Interconnection 7 Layer).md",
-    "3. Resource/독서/독서 노트/세컨드 브레인은 옵시디언 with 클로드 코드.md",
     "templates/다이어리/weekly-template.md",
-    "2. Area/다이어리/1. 일간/2026년 09월 26일.md",
     "2. Area/다이어리/2. 주간/2026년 39주.md",
     "2. Area/다이어리/1. 일간/README.md",
     "2. Area/다이어리/2. 주간/README.md",
@@ -271,10 +274,8 @@
     "6. Zettelkasten/Reference",
     "6. Zettelkasten/Permanent",
     "6. Zettelkasten/Untitled.md",
-    "4. Archive/README.md",
     "6. Zettelkasten",
     "5. Inbox",
-    "3. Resource/독서/README.md",
     "3. Resource/독서/독서 노트 둘러보기.base",
     "4. Archive/Resource/BE-old/images/OSI모델구조도-1-1024x374.png",
     "4. Archive/Resource/BE-old/images",
@@ -286,7 +287,6 @@
     "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/image 181.png",
     "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/image 165.png",
     "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/QRCJUDYW1KaMOlZzd9CO9NWXlB4VqWX-TUaKkDjCbFQTvX6ZtRZAH9r2-LzcVglPHHBnAQsdfqW-w3hHJKjEgQ.webp",
-    "4. Archive/Resource/JavaScript-nomadcoders/images/image 62.png",
-    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images"
+    "4. Archive/Resource/JavaScript-nomadcoders/images/image 62.png"
   ]
 }
