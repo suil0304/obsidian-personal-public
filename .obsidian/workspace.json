@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Inbox/임시 노트 2.md",
+                "file": "templates/note_template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "임시 노트 2"
+              "title": "note_template"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Inbox/임시 노트 2.md",
+                "file": "templates/note_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5. Inbox/임시 노트 2.md"
+                "file": "templates/note_template.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -238,8 +238,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7154059aac0302ed",
+  "active": "66fafe59ee0fd8c9",
   "lastOpenFiles": [
+    "templates/제텔카스텐/zettelkasten_reference_template.md",
+    "templates/note_template.md",
     "5. Inbox/임시 노트 1.md",
     "5. Inbox/임시 노트 2.md",
     "3. Resource/독서/독서 노트/세컨드 브레인은 옵시디언 with 클로드 코드.md",
@@ -247,7 +249,6 @@
     "최근 생성 및 수정된 노트.base",
     "6. Zettelkasten/Reference/V-Slice 네트워킹에 대하여.md",
     "6. Zettelkasten/Reference/공개방이라.md",
-    "templates/제텔카스텐/zettelkasten_reference_template.md",
     "4. Archive/Resource/NestJS-nomadcoders/2 REST API.md",
     "4. Archive/Resource/React-nomadcoders/React 정리(nomadcoders).md",
     "4. Archive/Resource/NestJS-nomadcoders/NestJS 정리(nomadcoders).md",
@@ -273,7 +274,6 @@
     "6. Zettelkasten/Structure",
     "6. Zettelkasten/Reference",
     "6. Zettelkasten/Permanent",
-    "6. Zettelkasten/Untitled.md",
     "6. Zettelkasten",
     "5. Inbox",
     "3. Resource/독서/독서 노트 둘러보기.base",
