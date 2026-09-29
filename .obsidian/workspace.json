@@ -11,14 +11,10 @@
             "id": "66fafe59ee0fd8c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Inbox/임시 노트 4.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "임시 노트 4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -161,7 +157,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Inbox/임시 노트 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,9 +190,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "5. Inbox/임시 노트 4.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -240,8 +233,10 @@
   },
   "active": "66fafe59ee0fd8c9",
   "lastOpenFiles": [
-    "3. Resource/공부/디자인/디자인에 좋은 사이트.md",
+    "4. Archive/Resource/JavaScript-nomadcoders/JavaScript 정리(nomadcoders).md",
+    "5. Inbox/임시 노트 5.md",
     "5. Inbox/임시 노트 4.md",
+    "3. Resource/공부/디자인/디자인에 좋은 사이트.md",
     "5. Inbox/임시 노트 3.md",
     "test.md",
     "README.md",
@@ -257,7 +252,6 @@
     "4. Archive/Resource/NestJS-nomadcoders/2 REST API.md",
     "4. Archive/Resource/React-nomadcoders/React 정리(nomadcoders).md",
     "4. Archive/Resource/NestJS-nomadcoders/NestJS 정리(nomadcoders).md",
-    "4. Archive/Resource/JavaScript-nomadcoders/JavaScript 정리(nomadcoders).md",
     "4. Archive/Resource/BE-old/백엔드 정리(old).md",
     "4. Archive/Resource/TypeScript-nomadcoders/TypeScript 정리(nomadcoders).md",
     "3. Resource/README.md",
@@ -268,7 +262,6 @@
     "OSI 7계층(Open Systems Interconnection 7 Layer.md",
     "3570c07c854380668fa6f34dc5991f39.md",
     "3520c07c854380338c74f35dd8c3b49c.md",
-    "4. Archive/Resource/BE-old/OSI 7계층(Open Systems Interconnection 7 Layer).md",
     "bases/util/다이어리 최근 작성된 노트.base",
     "templates/제텔카스텐",
     "6. Zettelkasten/Structure",
