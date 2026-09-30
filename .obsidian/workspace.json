@@ -11,10 +11,14 @@
             "id": "66fafe59ee0fd8c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "5. Inbox/임시 노트 5.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "임시 노트 5"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xW898vc3GuyJgnXZDMmAjxjAmzXUeEpQCrRKWjNNs_P6_XH0bclgTgs1ER8hvnQPVVvYmZq54v1otC_OaYkkgbxJ5yI58mRYcQlzYMVnDuUpUzYXkb83eJHWsRmvppBU3379JrTa",
+                "query": "tag:#root를",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "최근 생성 및 수정된 노트.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "5. Inbox/임시 노트 5.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -231,55 +238,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "66fafe59ee0fd8c9",
+  "active": "7154059aac0302ed",
   "lastOpenFiles": [
+    "5. Inbox/임시 노트 1.md",
+    "3. Resource/공부/공부 우선 순위.md",
+    "3. Resource/공부/DevOps/GitHub Actions.md",
+    "3. Resource/공부/개발 용어/SRD.md",
+    "3. Resource/공부/개발 용어/UX Flow.md",
+    "3. Resource/공부/디자인/디자인에 좋은 사이트.md",
+    "3. Resource/공부/DevOps/CI-CD.md",
+    "bases/sidebar/링크 확인.base",
+    "templates/note_template.md",
+    "canvas/Untitled 1.canvas",
+    "canvas/Untitled.canvas",
+    "4. Archive/Resource/React-nomadcoders/2 Update The Basics of React.md",
+    "2. Area/다이어리/1. 일간/2026년 09월 26일.md",
+    "3. Resource/공부/DevOps",
+    "최근 생성 및 수정된 노트.base",
+    "3. Resource/공부/CS",
+    "3. Resource/공부/개발 용어",
+    "6. Zettelkasten/Reference/공개방이라.md",
+    "3. Resource/공부/디자인/웹 디자인/디자인 시스템/그리드 시스템.md",
+    "PLAN.md",
+    "image3.png",
+    "image2.png",
+    "image.png",
     "4. Archive/Resource/JavaScript-nomadcoders/JavaScript 정리(nomadcoders).md",
     "5. Inbox/임시 노트 5.md",
     "5. Inbox/임시 노트 4.md",
-    "3. Resource/공부/디자인/디자인에 좋은 사이트.md",
     "5. Inbox/임시 노트 3.md",
     "test.md",
     "README.md",
-    "6. Zettelkasten/Reference/공개방이라.md",
     "6. Zettelkasten/Reference/V-Slice 네트워킹에 대하여.md",
-    "templates/note_template.md",
     "templates/제텔카스텐/zettelkasten_reference_template.md",
-    "5. Inbox/임시 노트 1.md",
     "5. Inbox/임시 노트 2.md",
     "3. Resource/독서/독서 노트/세컨드 브레인은 옵시디언 with 클로드 코드.md",
-    "2. Area/다이어리/1. 일간/2026년 09월 26일.md",
-    "최근 생성 및 수정된 노트.base",
     "4. Archive/Resource/NestJS-nomadcoders/2 REST API.md",
     "4. Archive/Resource/React-nomadcoders/React 정리(nomadcoders).md",
     "4. Archive/Resource/NestJS-nomadcoders/NestJS 정리(nomadcoders).md",
-    "4. Archive/Resource/BE-old/백엔드 정리(old).md",
-    "4. Archive/Resource/TypeScript-nomadcoders/TypeScript 정리(nomadcoders).md",
-    "3. Resource/README.md",
-    "canvas/Untitled.canvas",
-    "canvas/Untitled 1.canvas",
-    "bases/README.md",
-    "4. Archive/Resource/BE-old/TCP-IP 계층 모델.md",
-    "OSI 7계층(Open Systems Interconnection 7 Layer.md",
-    "3570c07c854380668fa6f34dc5991f39.md",
-    "3520c07c854380338c74f35dd8c3b49c.md",
     "bases/util/다이어리 최근 작성된 노트.base",
     "templates/제텔카스텐",
     "6. Zettelkasten/Structure",
     "6. Zettelkasten/Reference",
     "6. Zettelkasten/Permanent",
-    "6. Zettelkasten",
-    "5. Inbox",
-    "3. Resource/독서/독서 노트 둘러보기.base",
     "4. Archive/Resource/BE-old/images/OSI모델구조도-1-1024x374.png",
-    "4. Archive/Resource/BE-old/images",
     "4. Archive/Resource/BE-old/images/-----------2021-07-12------11.36.22.png",
     "4. Archive/Resource/BE-old/images/img1.daumcdn.png",
     "4. Archive/Resource/BE-old/images/image 202.png",
     "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/image 190.png",
     "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/images.jpg",
-    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/image 181.png",
-    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/image 165.png",
-    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/QRCJUDYW1KaMOlZzd9CO9NWXlB4VqWX-TUaKkDjCbFQTvX6ZtRZAH9r2-LzcVglPHHBnAQsdfqW-w3hHJKjEgQ.webp",
-    "4. Archive/Resource/JavaScript-nomadcoders/images/image 62.png"
+    "Notion/언어 & 기술 스택 정리/ADsP(Advanced Data Analytics Semi-Professional) 정리/03. 데이터 분석/images/image 181.png"
   ]
 }
