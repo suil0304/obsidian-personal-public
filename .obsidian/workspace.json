@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Inbox/임시 노트 5.md",
+                "file": "3. Resource/공부/방법론/TDD.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "임시 노트 5"
+              "title": "TDD"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5. Inbox/임시 노트 5.md"
+                "file": "3. Resource/공부/방법론/TDD.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -238,15 +238,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7154059aac0302ed",
+  "active": "66fafe59ee0fd8c9",
   "lastOpenFiles": [
+    "3. Resource/공부/방법론/SDD.md",
+    "3. Resource/공부/방법론/TDD.md",
+    "3. Resource/공부/개발 용어/SRD.md",
+    "3. Resource/공부/방법론",
+    "3. Resource/공부/개발 용어/UX Flow.md",
     "5. Inbox/임시 노트 1.md",
+    "3. Resource/공부/DevOps/CI-CD.md",
+    "5. Inbox/임시 노트 5.md",
     "3. Resource/공부/공부 우선 순위.md",
     "3. Resource/공부/DevOps/GitHub Actions.md",
-    "3. Resource/공부/개발 용어/SRD.md",
-    "3. Resource/공부/개발 용어/UX Flow.md",
     "3. Resource/공부/디자인/디자인에 좋은 사이트.md",
-    "3. Resource/공부/DevOps/CI-CD.md",
     "bases/sidebar/링크 확인.base",
     "templates/note_template.md",
     "canvas/Untitled 1.canvas",
@@ -264,7 +268,6 @@
     "image2.png",
     "image.png",
     "4. Archive/Resource/JavaScript-nomadcoders/JavaScript 정리(nomadcoders).md",
-    "5. Inbox/임시 노트 5.md",
     "5. Inbox/임시 노트 4.md",
     "5. Inbox/임시 노트 3.md",
     "test.md",
@@ -274,13 +277,10 @@
     "5. Inbox/임시 노트 2.md",
     "3. Resource/독서/독서 노트/세컨드 브레인은 옵시디언 with 클로드 코드.md",
     "4. Archive/Resource/NestJS-nomadcoders/2 REST API.md",
-    "4. Archive/Resource/React-nomadcoders/React 정리(nomadcoders).md",
-    "4. Archive/Resource/NestJS-nomadcoders/NestJS 정리(nomadcoders).md",
     "bases/util/다이어리 최근 작성된 노트.base",
     "templates/제텔카스텐",
     "6. Zettelkasten/Structure",
     "6. Zettelkasten/Reference",
-    "6. Zettelkasten/Permanent",
     "4. Archive/Resource/BE-old/images/OSI모델구조도-1-1024x374.png",
     "4. Archive/Resource/BE-old/images/-----------2021-07-12------11.36.22.png",
     "4. Archive/Resource/BE-old/images/img1.daumcdn.png",

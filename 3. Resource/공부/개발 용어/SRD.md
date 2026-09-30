@@ -2,7 +2,7 @@
 노트 생성 시각: "2026년 09월 30일 17시 2분"
 tags:  
   - 용어
-  - 개발/방법론
+  - 개발/문서
 ---
 
 *Service Requirements Document / Software Requirements Document*
