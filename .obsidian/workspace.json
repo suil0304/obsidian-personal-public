@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/공부/방법론/TDD.md",
+                "file": "5. Inbox/임시 노트 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TDD"
+              "title": "임시 노트 1"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3. Resource/공부/방법론/TDD.md"
+                "file": "5. Inbox/임시 노트 1.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -240,12 +240,14 @@
   },
   "active": "66fafe59ee0fd8c9",
   "lastOpenFiles": [
-    "3. Resource/공부/방법론/SDD.md",
+    "6. Zettelkasten/Reference/언어를 많이 배운다고 효과적일까.md",
+    "5. Inbox/임시 노트 1.md",
+    "6. Zettelkasten/Reference/공개방이라.md",
     "3. Resource/공부/방법론/TDD.md",
+    "3. Resource/공부/방법론/SDD.md",
     "3. Resource/공부/개발 용어/SRD.md",
     "3. Resource/공부/방법론",
     "3. Resource/공부/개발 용어/UX Flow.md",
-    "5. Inbox/임시 노트 1.md",
     "3. Resource/공부/DevOps/CI-CD.md",
     "5. Inbox/임시 노트 5.md",
     "3. Resource/공부/공부 우선 순위.md",
@@ -261,7 +263,6 @@
     "최근 생성 및 수정된 노트.base",
     "3. Resource/공부/CS",
     "3. Resource/공부/개발 용어",
-    "6. Zettelkasten/Reference/공개방이라.md",
     "3. Resource/공부/디자인/웹 디자인/디자인 시스템/그리드 시스템.md",
     "PLAN.md",
     "image3.png",
@@ -276,7 +277,6 @@
     "templates/제텔카스텐/zettelkasten_reference_template.md",
     "5. Inbox/임시 노트 2.md",
     "3. Resource/독서/독서 노트/세컨드 브레인은 옵시디언 with 클로드 코드.md",
-    "4. Archive/Resource/NestJS-nomadcoders/2 REST API.md",
     "bases/util/다이어리 최근 작성된 노트.base",
     "templates/제텔카스텐",
     "6. Zettelkasten/Structure",
