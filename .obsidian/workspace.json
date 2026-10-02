@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Inbox/임시 노트 11.md",
+                "file": "6. Zettelkasten/Reference/무조건 손으로 프로그래밍하는 것이 옳은가.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "임시 노트 11"
+              "title": "무조건 손으로 프로그래밍하는 것이 옳은가"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "5. Inbox/임시 노트 11.md"
+                "file": "6. Zettelkasten/Reference/무조건 손으로 프로그래밍하는 것이 옳은가.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -240,8 +240,8 @@
   },
   "active": "7154059aac0302ed",
   "lastOpenFiles": [
-    "5. Inbox/임시 노트 10.md",
     "5. Inbox/임시 노트 11.md",
+    "5. Inbox/임시 노트 10.md",
     "6. Zettelkasten/Reference/무조건 손으로 프로그래밍하는 것이 옳은가.md",
     "6. Zettelkasten/Reference/넓은 도메인 지식의 중요성.md",
     "6. Zettelkasten/Reference/공개방이라.md",
