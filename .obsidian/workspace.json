@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Zettelkasten/Reference/특화되어야 하는 서버와 FE.md",
+                "file": "5. Inbox/임시 노트 11.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "특화되어야 하는 서버와 FE"
+              "title": "임시 노트 11"
             }
           }
         ]
@@ -196,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "6. Zettelkasten/Reference/특화되어야 하는 서버와 FE.md"
+                "file": "5. Inbox/임시 노트 11.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -240,13 +240,25 @@
   },
   "active": "7154059aac0302ed",
   "lastOpenFiles": [
-    "6. Zettelkasten/Reference/최적화에 대하여.md",
-    "6. Zettelkasten/Reference/한 분야에 근무하는 사람이 다른 분야를 알아야 하나요.md",
-    "6. Zettelkasten/Reference/특화되어야 하는 서버와 FE.md",
+    "5. Inbox/임시 노트 10.md",
+    "5. Inbox/임시 노트 11.md",
+    "6. Zettelkasten/Reference/무조건 손으로 프로그래밍하는 것이 옳은가.md",
     "6. Zettelkasten/Reference/넓은 도메인 지식의 중요성.md",
+    "6. Zettelkasten/Reference/공개방이라.md",
     "6. Zettelkasten/Reference/언어를 많이 배운다고 효과적일까.md",
     "6. Zettelkasten/Reference/V-Slice 네트워킹에 대하여.md",
-    "6. Zettelkasten/Reference/공개방이라.md",
+    "6. Zettelkasten/Reference/한 분야에 근무하는 사람이 다른 분야를 알아야 하나요.md",
+    "6. Zettelkasten/Reference/특화되어야 하는 서버와 FE.md",
+    "6. Zettelkasten/Reference/최적화에 대하여.md",
+    "6. Zettelkasten/Reference/이 시대에서 개발자가 새로운 것을 공부하는 법.md",
+    "6. Zettelkasten/Reference/신입 개발자에게 도움이 되는 경험.md",
+    "5. Inbox/임시 노트 9.md",
+    "5. Inbox/임시 노트 8.md",
+    "5. Inbox/임시 노트 6.md",
+    "5. Inbox/임시 노트 3.md",
+    "5. Inbox/임시 노트 4.md",
+    "5. Inbox/임시 노트 5.md",
+    "5. Inbox/임시 노트 7.md",
     "5. Inbox/임시 노트 1.md",
     "3. Resource/공부/방법론/TDD.md",
     "3. Resource/공부/방법론/SDD.md",
@@ -254,29 +266,17 @@
     "3. Resource/공부/방법론",
     "3. Resource/공부/개발 용어/UX Flow.md",
     "3. Resource/공부/DevOps/CI-CD.md",
-    "5. Inbox/임시 노트 5.md",
     "3. Resource/공부/공부 우선 순위.md",
-    "3. Resource/공부/DevOps/GitHub Actions.md",
-    "3. Resource/공부/디자인/디자인에 좋은 사이트.md",
     "bases/sidebar/링크 확인.base",
-    "templates/note_template.md",
     "canvas/Untitled 1.canvas",
     "canvas/Untitled.canvas",
-    "4. Archive/Resource/React-nomadcoders/2 Update The Basics of React.md",
-    "2. Area/다이어리/1. 일간/2026년 09월 26일.md",
     "3. Resource/공부/DevOps",
     "최근 생성 및 수정된 노트.base",
     "3. Resource/공부/CS",
     "3. Resource/공부/개발 용어",
-    "3. Resource/공부/디자인/웹 디자인/디자인 시스템/그리드 시스템.md",
-    "PLAN.md",
     "image3.png",
     "image2.png",
     "image.png",
-    "4. Archive/Resource/JavaScript-nomadcoders/JavaScript 정리(nomadcoders).md",
-    "5. Inbox/임시 노트 4.md",
-    "5. Inbox/임시 노트 3.md",
-    "test.md",
     "bases/util/다이어리 최근 작성된 노트.base",
     "templates/제텔카스텐",
     "6. Zettelkasten/Structure",
