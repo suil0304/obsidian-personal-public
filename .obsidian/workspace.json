@@ -11,10 +11,28 @@
             "id": "66fafe59ee0fd8c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "6. Zettelkasten/Structure/기업 탐방에 대한 회고록.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "기업 탐방에 대한 회고록"
+            }
+          },
+          {
+            "id": "2ae1b64b6dde747d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Zettelkasten/Reference/무조건 손으로 프로그래밍하는 것이 옳은가.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무조건 손으로 프로그래밍하는 것이 옳은가"
             }
           }
         ]
@@ -191,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "6. Zettelkasten/Structure/기업 탐방에 대한 회고록.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -232,8 +252,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "66fafe59ee0fd8c9",
+  "active": "7154059aac0302ed",
   "lastOpenFiles": [
+    "6. Zettelkasten/Reference/신입 개발자에게 도움이 되는 경험.md",
+    "6. Zettelkasten/Reference/무조건 손으로 프로그래밍하는 것이 옳은가.md",
+    "6. Zettelkasten/Structure/기업 탐방에 대한 회고록.md",
+    "5. Inbox/임시 노트 11.md",
+    "5. Inbox/임시 노트 12.md",
+    "5. Inbox/임시 노트 13.md",
+    "5. Inbox/임시 노트 14.md",
+    "5. Inbox/임시 노트 15.md",
+    "5. Inbox/임시 노트 16.md",
+    "5. Inbox/임시 노트 17.md",
+    "6. Zettelkasten/Reference/이 시대에서 개발자가 새로운 것을 공부하는 법.md",
+    "6. Zettelkasten/Reference/특화되어야 하는 서버와 FE.md",
+    "6. Zettelkasten/Reference/넓은 도메인 지식의 중요성.md",
+    "6. Zettelkasten/Reference/V-Slice 네트워킹에 대하여.md",
+    "6. Zettelkasten/Reference/최적화에 대하여.md",
+    "templates/제텔카스텐/zettelkasten_structure_template.md",
+    "templates/제텔카스텐/zettelkasten_reference_template.md",
+    "6. Zettelkasten/Reference/한 분야에 근무하는 사람이 다른 분야를 알아야 하나요.md",
+    "6. Zettelkasten/Reference/언어를 많이 배운다고 효과적일까.md",
     "5. Inbox/임시 노트 10.md",
     "5. Inbox/임시 노트 9.md",
     "5. Inbox/임시 노트 8.md",
@@ -241,25 +280,6 @@
     "5. Inbox/임시 노트 6.md",
     "5. Inbox/임시 노트 5.md",
     "5. Inbox/임시 노트 4.md",
-    "5. Inbox/임시 노트 2.md",
-    "5. Inbox/임시 노트 3.md",
-    "6. Zettelkasten/Reference/무조건 손으로 프로그래밍하는 것이 옳은가.md",
-    "5. Inbox/임시 노트 17.md",
-    "5. Inbox/임시 노트 16.md",
-    "5. Inbox/임시 노트 15.md",
-    "5. Inbox/임시 노트 14.md",
-    "5. Inbox/임시 노트 13.md",
-    "5. Inbox/임시 노트 12.md",
-    "5. Inbox/임시 노트 11.md",
-    "6. Zettelkasten/Reference/넓은 도메인 지식의 중요성.md",
-    "6. Zettelkasten/Reference/공개방이라.md",
-    "6. Zettelkasten/Reference/언어를 많이 배운다고 효과적일까.md",
-    "6. Zettelkasten/Reference/V-Slice 네트워킹에 대하여.md",
-    "6. Zettelkasten/Reference/한 분야에 근무하는 사람이 다른 분야를 알아야 하나요.md",
-    "6. Zettelkasten/Reference/특화되어야 하는 서버와 FE.md",
-    "6. Zettelkasten/Reference/최적화에 대하여.md",
-    "6. Zettelkasten/Reference/이 시대에서 개발자가 새로운 것을 공부하는 법.md",
-    "6. Zettelkasten/Reference/신입 개발자에게 도움이 되는 경험.md",
     "3. Resource/공부/방법론",
     "bases/sidebar/링크 확인.base",
     "canvas/Untitled 1.canvas",
