@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 11010048
       }
+    },
+    {
+      "query": "file:\"임시 노트\"",
+      "color": {
+        "a": 1,
+        "rgb": 3866741
+      }
+    },
+    {
+      "query": "path:\"6. Zettelkasten/Reference\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711867
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +67,6 @@
   "repelStrength": 12.5300416905093,
   "linkStrength": 1,
   "linkDistance": 125,
-  "scale": 0.3628873693012053,
+  "scale": 0.3628873693012048,
   "close": true
 }
