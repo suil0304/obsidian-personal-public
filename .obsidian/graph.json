@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16711867
       }
+    },
+    {
+      "query": "path:\"6. Zettelkasten/Structure\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
