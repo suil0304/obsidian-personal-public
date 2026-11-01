@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/공부/언어/JS-TS/데코레이터.md",
+                "file": "3. Resource/공부/BE/NestJS/클래스 데코레이터.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "데코레이터"
+              "title": "클래스 데코레이터"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "최근 생성 및 수정된 노트.base",
+                "file": "3. Resource/공부/BE/NestJS/클래스 데코레이터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -238,8 +238,13 @@
   },
   "active": "7154059aac0302ed",
   "lastOpenFiles": [
-    "bases/sidebar/링크 확인.base",
+    "3. Resource/공부/BE/NestJS/DI를 위한 데코레이터.md",
+    "3. Resource/공부/BE/NestJS/클래스 데코레이터.md",
+    "3. Resource/공부/BE/NestJS/요청-응답에 관련한 데코레이터.md",
+    "3. Resource/공부/BE/NestJS/nest CLI.md",
     "3. Resource/공부/언어/JS-TS/데코레이터.md",
+    "3. Resource/공부/BE/NestJS",
+    "bases/sidebar/링크 확인.base",
     "3. Resource/공부/디자인/웹 디자인/용어.md",
     "3. Resource/공부/언어/JS-TS",
     "5. Inbox/임시 노트 21.md",
@@ -269,9 +274,6 @@
     "6. Zettelkasten/Reference/신입 개발자에게 도움이 되는 경험.md",
     "5. Inbox/임시 노트 11.md",
     "5. Inbox/임시 노트 12.md",
-    "5. Inbox/임시 노트 13.md",
-    "5. Inbox/임시 노트 14.md",
-    "5. Inbox/임시 노트 15.md",
     "3. Resource/공부/방법론",
     "canvas/Untitled 1.canvas",
     "canvas/Untitled.canvas",
@@ -282,7 +284,6 @@
     "image3.png",
     "image2.png",
     "image.png",
-    "bases/util/다이어리 최근 작성된 노트.base",
     "4. Archive/Resource/BE-old/images/OSI모델구조도-1-1024x374.png",
     "4. Archive/Resource/BE-old/images/-----------2021-07-12------11.36.22.png"
   ]
