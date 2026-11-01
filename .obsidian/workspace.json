@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "3. Resource/공부/언어/JS-TS/데코레이터.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "데코레이터"
             }
           }
         ]
@@ -238,7 +238,13 @@
   },
   "active": "7154059aac0302ed",
   "lastOpenFiles": [
+    "bases/sidebar/링크 확인.base",
+    "3. Resource/공부/언어/JS-TS/데코레이터.md",
+    "3. Resource/공부/디자인/웹 디자인/용어.md",
+    "3. Resource/공부/언어/JS-TS",
+    "5. Inbox/임시 노트 21.md",
     "3. Resource/공부/디자인/웹 디자인/심리학/게슈탈트 이론.md",
+    "test.md",
     "5. Inbox/임시 노트 19.md",
     "5. Inbox/임시 노트 18.md",
     "5. Inbox/임시 노트 20.md",
@@ -246,10 +252,8 @@
     "3. Resource/공부/공부 우선 순위.md",
     "3. Resource/공부/개발 용어/SRD.md",
     "3. Resource/공부/DB",
-    "test.md",
     "4. Archive/Resource/software-old/SOLID 원칙.md",
     "3. Resource/공부/디자인/웹 디자인/심리학/images/연속성의 원리 arrow.png",
-    "3. Resource/공부/디자인/웹 디자인/용어.md",
     "3. Resource/공부/디자인/웹 디자인/심리학/images/Naver Shopping.png",
     "3. Resource/공부/디자인/웹 디자인/심리학/images/공통 영역의 원리 highlighted.png",
     "3. Resource/공부/디자인/웹 디자인/심리학/images/G마켓.png",
@@ -268,11 +272,7 @@
     "5. Inbox/임시 노트 13.md",
     "5. Inbox/임시 노트 14.md",
     "5. Inbox/임시 노트 15.md",
-    "5. Inbox/임시 노트 16.md",
-    "5. Inbox/임시 노트 17.md",
-    "6. Zettelkasten/Reference/이 시대에서 개발자가 새로운 것을 공부하는 법.md",
     "3. Resource/공부/방법론",
-    "bases/sidebar/링크 확인.base",
     "canvas/Untitled 1.canvas",
     "canvas/Untitled.canvas",
     "3. Resource/공부/DevOps",
@@ -283,7 +283,6 @@
     "image2.png",
     "image.png",
     "bases/util/다이어리 최근 작성된 노트.base",
-    "templates/제텔카스텐",
     "4. Archive/Resource/BE-old/images/OSI모델구조도-1-1024x374.png",
     "4. Archive/Resource/BE-old/images/-----------2021-07-12------11.36.22.png"
   ]
