@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/공부/BE/NestJS/클래스 데코레이터.md",
+                "file": "3. Resource/공부/BE/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "클래스 데코레이터"
+              "title": "아주 맛깔진 백엔드 npm 라이브러리 모음"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/공부/BE/NestJS/클래스 데코레이터.md",
+                "file": "3. Resource/공부/BE/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,6 +239,8 @@
   "active": "7154059aac0302ed",
   "lastOpenFiles": [
     "3. Resource/공부/BE/NestJS/DI를 위한 데코레이터.md",
+    "3. Resource/공부/BE/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
+    "3. Resource/공부/BE/libraries",
     "3. Resource/공부/BE/NestJS/클래스 데코레이터.md",
     "3. Resource/공부/BE/NestJS/요청-응답에 관련한 데코레이터.md",
     "3. Resource/공부/BE/NestJS/nest CLI.md",
@@ -273,14 +275,12 @@
     "6. Zettelkasten/Structure/기업 탐방에 대한 회고록.md",
     "6. Zettelkasten/Reference/신입 개발자에게 도움이 되는 경험.md",
     "5. Inbox/임시 노트 11.md",
-    "5. Inbox/임시 노트 12.md",
     "3. Resource/공부/방법론",
     "canvas/Untitled 1.canvas",
     "canvas/Untitled.canvas",
     "3. Resource/공부/DevOps",
     "최근 생성 및 수정된 노트.base",
     "3. Resource/공부/CS",
-    "3. Resource/공부/개발 용어",
     "image3.png",
     "image2.png",
     "image.png",
