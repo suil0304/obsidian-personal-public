@@ -38,6 +38,42 @@ Prisma v7을 추천합니다
 이전 버전을 굳이 사용할 필요는 없다고 생각함
 
 # NestJS
+## @nestjs/config
+ConfigModule을 추가합니다
 
+대충 src 내부에 \*.config.ts를 만들고
+
+```TypeScript
+import { registerAs } from "@nestjs/config";
+
+export default registerAs("test", () => {
+	return {
+		"test": process.env["TEST"]!
+	};
+});
+```
+
+이것을 AppModule에 이렇게 추가합시다
+
+```TypeScript
+@Module({
+	imports: [
+		ConfigModule.forRoot({
+			isGlobal: true,
+			load: [testConfig]
+		})
+	]
+})
+export class AppModule {}
+```
+
+이러면 ConfigService를 DI해주구요
+
+보통 configService.getOrThrow를 많이 사용하긴 합니다
+설정에서 undefined를 고려할 일이 웬만하면 없어서
+
+## @nestjs/mapped-types
+가장 대표적으로 쓰이는 것이 생성 DTO를 수정 DTO로 재사용하는데에 쓰이는 PartialType 함수구요
+원래 Utility Type으로만 쓰였던 Omit이나 그런 것들을 클래스 변환 등으로 런타임에 직접 영향을 미치도록 만든 라이브러리라 생각하시면 좋을 것 같네요
 
 # Express 계열
