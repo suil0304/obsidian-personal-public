@@ -6,7 +6,8 @@ tags:
 ---
 
 # 어디서든
-## uuid
+## 보안
+### uuid
 UUID 생성하는 라이브러리구요
 여러 버전을 지원합니다
 
@@ -21,56 +22,36 @@ v1은 시간에 MAC을 기반으로 한 노드 정보로 생성합니다
 v4는 난수구요
 v7은 UNIX + 난수입니다
 
-## nodemailer
-무료로 이메일 발송해주는 녀석입니다
-테스트용으로 쓰기 좋겠네요
-이러언
-
-## class-validator
+## 검증
+### class-validator
 DTO 검증 용도로 써먹기 아주 좋습니다
 
-## class-transformer
-struct처럼 사용하는 클래스의 값을 변환해주는 것입니다
-
-## prisma
+## ORM
+### prisma
 v7이었나 기준으로 많은 것이 바뀌었는데
 Prisma v7을 추천합니다
 이전 버전을 굳이 사용할 필요는 없다고 생각함
 
+## 변환
+### zod
+요즘에 많이 뜨는 것 같기도 한데
+
+### joi
+근본이라고 하네요
+오래되었고 풍부하다
+
+### class-transformer
+struct처럼 사용하는 클래스의 값을 변환해주는 것입니다
+
+## 기타
+### nodemailer
+무료로 이메일 발송해주는 녀석입니다
+테스트용으로 쓰기 좋겠네요
+이러언
+
 # NestJS
-## @nestjs/config
-ConfigModule을 추가합니다
-
-대충 src 내부에 \*.config.ts를 만들고
-
-```TypeScript
-import { registerAs } from "@nestjs/config";
-
-export default registerAs("test", () => {
-	return {
-		"test": process.env["TEST"]!
-	};
-});
-```
-
-이것을 AppModule에 이렇게 추가합시다
-
-```TypeScript
-@Module({
-	imports: [
-		ConfigModule.forRoot({
-			isGlobal: true,
-			load: [testConfig]
-		})
-	]
-})
-export class AppModule {}
-```
-
-이러면 ConfigService를 DI해주구요
-
-보통 configService.getOrThrow를 많이 사용하긴 합니다
-설정에서 undefined를 고려할 일이 웬만하면 없어서
+## [[@nestjs-config|@nestjs/config]]
+ConfigModule 등을 추가합니다
 
 ## @nestjs/mapped-types
 가장 대표적으로 쓰이는 것이 생성 DTO를 수정 DTO로 재사용하는데에 쓰이는 PartialType 함수구요

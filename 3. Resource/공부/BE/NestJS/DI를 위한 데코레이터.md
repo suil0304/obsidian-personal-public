@@ -89,3 +89,10 @@ ForwardReference는 forwardRef 함수 반환값 사용하세요
 괜히 따로 구현해보겠다 하지 마시고
 아이고야
 
+# Global
+*class*
+
+Module에 붙여 사용합니다
+전역으로 만들어주구요
+
+루트에서 딱 한 번만 등록하면 됩니다
