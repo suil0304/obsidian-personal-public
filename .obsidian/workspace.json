@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/공부/BE/libraries/kysely/타입.md",
+                "file": "3. Resource/공부/BE/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "타입"
+              "title": "아주 맛깔진 백엔드 npm 라이브러리 모음"
             }
           }
         ]
@@ -236,10 +236,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7154059aac0302ed",
+  "active": "b8fc6c9e8a6510a2",
   "lastOpenFiles": [
-    "3. Resource/공부/BE/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
     "3. Resource/공부/BE/libraries/kysely/타입.md",
+    "3. Resource/공부/BE/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
     "3. Resource/공부/BE/libraries/kysely",
     "3. Resource/공부/BE/NestJS/libraries/@nestjs-config.md",
     "3. Resource/공부/BE/NestJS/요청-응답에 관련한 데코레이터.md",
