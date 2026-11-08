@@ -2,7 +2,7 @@
 [[디자인에 좋은 사이트|디자인에 참고하기 좋은 사이트]]는 여기를 참고해주세요.
 
 > [!note]- 웹 디자인 용어
-> ![[용어|웹 디자인 용어]]
+> ![[3. Resource/공부/디자인/웹 디자인/용어|웹 디자인 용어]]
 
 # 공부해야 할 것
 - [ ] [웹 디자인 입문](https://www.youtube.com/watch?v=0q0tdEbNci4&list=PLkbzizJk4Ae8VJcW6qpHjiP2qByn4Gs8w)

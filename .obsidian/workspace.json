@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff80a33c6de1d25c",
+        "id": "000c71e161ccdb74",
         "type": "tabs",
         "children": [
           {
-            "id": "b8fc6c9e8a6510a2",
+            "id": "b2365451c25d208e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#root를",
+                "query": "tag:#디자인/웹_디자인",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,8 +232,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b8fc6c9e8a6510a2",
+  "active": "b2365451c25d208e",
   "lastOpenFiles": [
+    "3. Resource/공부/BE/용어/IoC.md",
+    "3. Resource/공부/BE/용어/용어.md",
+    "3. Resource/공부/BE/Untitled.md",
+    "3. Resource/공부/BE/용어",
     "3. Resource/공부/BE/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
     "3. Resource/공부/BE/libraries/zod/검증.md",
     "3. Resource/공부/BE/libraries/zod/zod.md",
@@ -269,12 +273,8 @@
     "3. Resource/공부/디자인/웹 디자인/심리학/images/공통 영역의 원리 highlighted.png",
     "3. Resource/공부/디자인/웹 디자인/심리학/images/G마켓.png",
     "3. Resource/공부/디자인/디자인에 좋은 사이트.md",
-    "2. Area/다이어리/1. 일간/2026년 09월 26일.md",
-    "4. Archive/Resource/software-old/컴포넌트 응집도 원칙.md",
     "4. Archive/Resource/software-old/컴포넌트 응집도 원칙 그림.png",
     "4. Archive/Resource/software-old",
-    "3. Resource/공부/방법론/TDD.md",
-    "3. Resource/공부/방법론",
     "canvas/Untitled 1.canvas",
     "canvas/Untitled.canvas",
     "image3.png",
