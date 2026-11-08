@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/공부/BE/NestJS/파이프.md",
+                "file": "3. Resource/공부/BE/용어/용어.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "파이프"
+              "title": "용어"
             }
           }
         ]
@@ -238,8 +238,9 @@
   },
   "active": "b2365451c25d208e",
   "lastOpenFiles": [
-    "3. Resource/공부/BE/용어/DI.md",
+    "3. Resource/공부/BE/용어/인증과 인가.md",
     "3. Resource/공부/BE/NestJS/파이프.md",
+    "3. Resource/공부/BE/용어/DI.md",
     "3. Resource/공부/BE/용어/용어.md",
     "3. Resource/공부/BE/용어/IoC.md",
     "3. Resource/공부/BE/Untitled.md",
@@ -271,7 +272,6 @@
     "5. Inbox/임시 노트 20.md",
     "3. Resource/공부/DB/Vector DB.md",
     "3. Resource/공부/공부 우선 순위.md",
-    "3. Resource/공부/개발 용어/SRD.md",
     "3. Resource/공부/DB",
     "3. Resource/공부/디자인/웹 디자인/심리학/images/연속성의 원리 arrow.png",
     "3. Resource/공부/디자인/웹 디자인/심리학/images/Naver Shopping.png",
