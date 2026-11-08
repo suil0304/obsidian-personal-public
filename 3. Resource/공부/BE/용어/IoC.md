@@ -5,6 +5,8 @@ tags:
   - 용어
 ---
 
+*Inversion of Control*
+
 어쨌든 SOLID 원칙은 중요합니다
 근데 Spring이나 NestJS와 같은 DI를 해주는 녀석들은 이것을 어떻게 지켜주는 거죠
 
