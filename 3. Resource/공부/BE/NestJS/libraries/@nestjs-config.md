@@ -59,3 +59,25 @@ ENV_VARIABLE이 false가 아니라면 추가하는 것이구요
 ```
 
 등등의 함수를 넣을 수도 있습니다
+
+# config.KEY로 DI
+```TypeScript
+imports: [
+	ConfigModule.forFeature(emailConfig)
+],
+```
+이게 사실은 [[커스텀 프로바이더#FactoryProvider|FactoryProvider]]로 변환해주는 느낌도 겸하는데
+
+그래서 constructor에다 이렇게 해도 됩니다
+
+```TypeScript
+constructor(@Inject(emailConfig.KEY) private readonly __config:ConfigType<typeof emailConfig>) {
+    this.__transporter = createTransport({
+        service: this.__config.service,
+        auth: {
+            user: this.__config.auth.name,
+			pass: this.__config.auth.password
+		}
+	});
+}
+```
