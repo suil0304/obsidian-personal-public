@@ -4,8 +4,11 @@ tags:
   - BE
 ---
 
-NestJS는 공식적으로 지원하는 다른 ORM의 Module에 대하여 이 방식으로 서술하는 것을 지원한다고 하네요
+TypeORM은 0.3 이전까지 json에서 작성하도록 하는 방법도 지원했었다고 하네요
+0.3으로 올라오면서 제거했다고는 하는데
+구버전을 사용하는 경우도 가끔씩 있잖아요
 
+예시는 전부 NestJS로 들겠습니다
 [[@nestjs-typeorm|NestJS의 공식 TypeORM 모듈 패키지]]에서는 원래 이렇게 작성했잖아요?
 ```TypeScript
 import { Module } from "@nestjs/core";
@@ -42,5 +45,8 @@ class AppModule {}
 그렇다고 JS로 다시 감싸기에는 많이 귀찮잖아요
 이러언
 
-따라서 차라리 forRootAsync를 지원하는 경우 [[@nestjs-config|ConfigService]]와 섞어 DI하며 초기화하도록 유도하는 것이 좋다네요
+NestJS에서는 차라리 forRootAsync로 [[@nestjs-config|ConfigService]]와 섞어 DI하며 초기화하도록 유도하는 것이 좋다네요
 흐음
+
+동적으로 ormconfig.json을 다루는 방법도 있다고는 하는데
+그렇게 추천하지는 않을게요

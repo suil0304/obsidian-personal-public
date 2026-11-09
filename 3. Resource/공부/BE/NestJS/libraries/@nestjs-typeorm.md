@@ -65,7 +65,7 @@ forFeature에서 Entity 몇 개 넣어주면 되구요
 class AppModule {}
 ```
 
-사용은 이런 느낌으로
+name 인자는 이런 느낌으로
 
 # 사용
 ```TypeScript
