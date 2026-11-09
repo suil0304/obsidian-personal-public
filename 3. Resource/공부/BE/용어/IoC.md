@@ -16,7 +16,7 @@ IoC는 이것을 위해...
 예를 들기 위한 NestJS 코드입니다
 
 ```TypeScript
-import { Injectable, Module, Controller, Get } from "@nestjs/core";
+import { Injectable, Module, Controller, Get } from "@nestjs/common";
 
 @Injectable()
 class AppService {
@@ -64,7 +64,7 @@ IoC를 수행해주는 컨테이너입니다
 다른 클래스 또는 다른 모듈에서 오는 provider에 대하여 DIP를 시도하는 것이 차라리 더 효율적일 수 있습니다
 
 ```TypeScript
-import { Inject, Injectable, Module, Controller, Get } from "@nestjs/core";
+import { Inject, Injectable, Module, Controller, Get } from "@nestjs/common";
 
 interface BaseService {
 	public getHello():string;

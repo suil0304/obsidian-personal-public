@@ -34,6 +34,9 @@ v7은 UNIX + 난수입니다
 DTO 검증 용도로 써먹기 아주 좋습니다
 
 ## ORM
+### [TypeORM|TypeORM]
+유명한 친구죠
+
 ### [[타입|kysely]]
 사실 이 친구는 ORM이 아니라 Query Builder입니다
 근데 맛있어요
