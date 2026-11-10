@@ -36,6 +36,9 @@ Prisma v7을 추천합니다
 struct처럼 사용하는 클래스의 값을 변환해주는 것입니다
 
 ## 기타
+### jsonwebtoken
+이름만 봐도 알만 하죠
+
 ### uuid
 UUID 생성하는 라이브러리구요
 여러 버전을 지원합니다
@@ -66,6 +69,10 @@ user에는 본인 이메일 넣으시면 됩니다
 # NestJS
 ## [[@nestjs-config|@nestjs/config]]
 ConfigModule 등을 추가합니다
+
+## [[@nestjs-jwt|@nestjs/jwt]]
+JwtService를 DI하도록 지원하는 NestJS의 라이브러리입니다
+좋구요
 
 ## @nestjs/mapped-types
 가장 대표적으로 쓰이는 것이 생성 DTO를 수정 DTO로 재사용하는데에 쓰이는 PartialType 함수구요
