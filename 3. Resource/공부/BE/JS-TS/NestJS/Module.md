@@ -67,7 +67,7 @@ export interface MiddlewareConsumer {
 }
 ```
 
-[[3. Resource/공부/BE/NestJS/미들웨어|여기]]에서 미들웨어를 만들었다면
+[[3. Resource/공부/BE/JS-TS/NestJS/미들웨어|여기]]에서 미들웨어를 만들었다면
 그것을 그대로 넘겨주시면 되겠습니다
 
 직관적이게도 미들웨어는 넣은 순서대로 동작합니다

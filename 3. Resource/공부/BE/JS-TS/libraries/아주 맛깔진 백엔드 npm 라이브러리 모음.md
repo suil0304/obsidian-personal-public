@@ -6,7 +6,14 @@ tags:
 ---
 
 # 어디서든
-## 검증
+## 인증
+### [[jsonwebtoken|jsonwebtoken]]
+이름만 봐도 알만 하죠
+
+### [[passport|passport]]
+그 전설의 인증 패키지
+
+## 스키마 검증
 ### [[zod|zod]]
 요즘에 많이 뜨는 것 같기도 한데
 
@@ -36,9 +43,6 @@ Prisma v7을 추천합니다
 struct처럼 사용하는 클래스의 값을 변환해주는 것입니다
 
 ## 기타
-### jsonwebtoken
-이름만 봐도 알만 하죠
-
 ### uuid
 UUID 생성하는 라이브러리구요
 여러 버전을 지원합니다
@@ -73,6 +77,17 @@ ConfigModule 등을 추가합니다
 ## [[@nestjs-jwt|@nestjs/jwt]]
 JwtService를 DI하도록 지원하는 NestJS의 라이브러리입니다
 좋구요
+
+## [[@nestjs-authentication|@nestjs/authentication]]
+[[@nestjs-jwt|@nestjs/jwt]] 가지고는 성이 안 찬다 싶으면 사용해보세요
+프레임워크라 부를 수 있는 그러한 인증 라이브러리입니다
+
+## [[@nestjs-typeorm|@nestjs/typeorm]]
+[[TypeORM|TypeORM]]을 NestJS에서 공식적으로 지원해주는 라이브러리입니다
+좋구요
+
+## [[@nestjs-passport|@nestjs/passport]]
+[[passport|passport]]의 NestJS 공식 라이브러리입니다
 
 ## @nestjs/mapped-types
 가장 대표적으로 쓰이는 것이 생성 DTO를 수정 DTO로 재사용하는데에 쓰이는 PartialType 함수구요
