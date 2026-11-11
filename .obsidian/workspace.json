@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/공부/BE/JS-TS/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
+                "file": "3. Resource/공부/BE/용어/용어.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "아주 맛깔진 백엔드 npm 라이브러리 모음"
+              "title": "용어"
             }
           }
         ]
@@ -238,8 +238,10 @@
   },
   "active": "b2365451c25d208e",
   "lastOpenFiles": [
-    "3. Resource/공부/BE/JS-TS/libraries/Passport.js/passport.md",
+    "3. Resource/공부/BE/용어/슬라이딩 세션.md",
+    "3. Resource/공부/BE/용어/JWT.md",
     "3. Resource/공부/BE/JS-TS/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
+    "3. Resource/공부/BE/JS-TS/libraries/Passport.js/passport.md",
     "3. Resource/공부/BE/JS-TS/libraries/Passport.js/Untitled",
     "3. Resource/공부/BE/JS-TS/libraries/Passport.js",
     "3. Resource/공부/BE/JS-TS/libraries/Untitled.md",
@@ -255,7 +257,6 @@
     "3. Resource/공부/디자인/README.md",
     "3. Resource/공부/README.md",
     "3. Resource/공부/BE/용어/용어.md",
-    "3. Resource/공부/BE/용어/JWT.md",
     "3. Resource/공부/BE/JS-TS/NestJS/미들웨어.md",
     "3. Resource/공부/BE/용어/ACL.md",
     "3. Resource/공부/BE/JS-TS/NestJS/Module.md",
@@ -266,7 +267,6 @@
     "3. Resource/공부/BE/용어/엔드포인트.md",
     "3. Resource/공부/BE/용어/라우트 핸들러.md",
     "3. Resource/공부/BE/용어/Repository Pattern.md",
-    "3. Resource/공부/BE/용어/DAO.md",
     "3. Resource/공부/BE/JS-TS/libraries/ORM/TypeORM",
     "3. Resource/공부/BE/JS-TS/libraries/ORM",
     "3. Resource/공부/BE/용어",
