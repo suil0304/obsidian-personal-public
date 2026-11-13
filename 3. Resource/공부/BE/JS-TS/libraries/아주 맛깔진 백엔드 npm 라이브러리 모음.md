@@ -42,6 +42,12 @@ Prisma v7을 추천합니다
 ### class-transformer
 struct처럼 사용하는 클래스의 값을 변환해주는 것입니다
 
+## 로깅
+### [[winston|winston]]
+유명한 로깅 패키지라 하네요
+
+단순히 출력하는 것을 넘어 기록하고 관리할 수 있도록 지원하는 라이브러리입니다
+
 ## 기타
 ### uuid
 UUID 생성하는 라이브러리구요
@@ -70,6 +76,10 @@ v7은 UNIX + 난수입니다
 user에는 본인 이메일 넣으시면 됩니다
 이러언
 
+### [[reflect-metadata|reflect-metadata]]
+가뜩이나 동적인 JS 세계에서 더욱 동적이고 혁신적인 것을 추구하기 위해 있는 라이브러리라 이해하시면 될 것 같아요
+[[데코레이터#구버전 (TS Decorator)|구버전]] 사용하고 있는 라이브러리들은 거의 전부 이 라이브러리를 사용하고 있습니다
+
 # NestJS
 ## [[@nestjs-config|@nestjs/config]]
 ConfigModule 등을 추가합니다
@@ -88,6 +98,10 @@ JwtService를 DI하도록 지원하는 NestJS의 라이브러리입니다
 
 ## [[@nestjs-passport|@nestjs/passport]]
 [[passport|passport]]의 NestJS 공식 라이브러리입니다
+
+## [[nest-winston|nest-winston]]
+winston의 NestJS 래퍼 패키지입니다
+유저들이 만들었구요
 
 ## @nestjs/mapped-types
 가장 대표적으로 쓰이는 것이 생성 DTO를 수정 DTO로 재사용하는데에 쓰이는 PartialType 함수구요

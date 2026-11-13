@@ -19,6 +19,38 @@ tags:
 맨 앞의 가드가 막으면 뒤도 자연스럽게 막힌 것처럼 볼 수 있겠고
 뭐 아무튼
 
+# 언제 실행되는가?
+Request가 Controller에 닿은 후 실행됩니다
+미들웨어에서 요청 자체에 대한 전처리 등이 완료된 직후 Guard에 오는 것이라 생각하시면 되겠네요
+
+Request가 Controller에 닿아(라우팅이 완료되어) Controller와 [[라우트 핸들러|라우트 핸들러]]를 가져올 수 있기 때문에 이 때부터 ExecutionContext를 받을 수 있습니다
+실행 문맥이죠
+
+Guard를 성공적으로 통과했다면 [[인터셉터#언제 실행되는가?|인터셉터]]로 향하게 됩니다
+
+# 실행 순서
+역시나 전역 먼저 갑니다
+그 후 컨트롤러 순서대로 실행됩니다
+
+```TypeScript
+@UseGuards(Guard1, Guard2)
+@Controller()
+class AppController {
+	constructor(
+		private readonly __appService:AppService
+	) {}
+	
+	@UseGuards(Guard3)
+	@Get()
+	async get() {
+		return "test";
+	}
+}
+```
+
+여기에서는 Guard1 -> Guard2 -> Guard3 순서대로 실행됩니다
+상향식이라 부를 수도 있겠네요
+
 # CanActivate
 Guard는 CanActivate를 구현함으로서 만들 수 있습니다
 
