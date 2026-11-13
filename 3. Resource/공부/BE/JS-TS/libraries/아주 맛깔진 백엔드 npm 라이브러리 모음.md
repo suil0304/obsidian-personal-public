@@ -80,6 +80,9 @@ user에는 본인 이메일 넣으시면 됩니다
 가뜩이나 동적인 JS 세계에서 더욱 동적이고 혁신적인 것을 추구하기 위해 있는 라이브러리라 이해하시면 될 것 같아요
 [[데코레이터#구버전 (TS Decorator)|구버전]] 사용하고 있는 라이브러리들은 거의 전부 이 라이브러리를 사용하고 있습니다
 
+### [[node-cron|node-cron]]
+특정 시간마다 처리되어야 하는 등의 작업 스케줄링을 등록하는 라이브러리입니다
+
 # NestJS
 ## [[@nestjs-config|@nestjs/config]]
 ConfigModule 등을 추가합니다
@@ -106,5 +109,15 @@ winston의 NestJS 래퍼 패키지입니다
 ## @nestjs/mapped-types
 가장 대표적으로 쓰이는 것이 생성 DTO를 수정 DTO로 재사용하는데에 쓰이는 PartialType 함수구요
 원래 Utility Type으로만 쓰였던 Omit이나 그런 것들을 클래스 변환 등으로 런타임에 직접 영향을 미치도록 만든 라이브러리라 생각하시면 좋을 것 같네요
+
+## [[@nestjs-schedule|@nestjs/schedule]]
+그리고 그 [[node-cron|node-cron]]의 NestJS 공식 라이브러리입니다
+
+## [[@nestjs-terminus|@nestjs/terminus]]
+health check를 위한 라이브러리입니다
+외에도 정상적인 종료 등을 지원하게 만드는 역할도 포함한다 하네요
+
+## [[@nestjs-axios|@nestjs/axios]]
+HTTP 요청 보내기 클라이언트 라이브러리인 axios의 NestJS 공식 라이브러리구요
 
 # Express 계열
