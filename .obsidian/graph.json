@@ -29,6 +29,20 @@
       }
     },
     {
+      "query": "path:\"3. Resource/공부/BE/JS-TS/NestJS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14689102
+      }
+    },
+    {
+      "query": "path:\"3. Resource/공부/BE/용어\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14961023
+      }
+    },
+    {
       "query": "path:\"3. Resource\"  ",
       "color": {
         "a": 1,
@@ -39,7 +53,7 @@
       "query": "path:\"4. Archive/Resource\"  ",
       "color": {
         "a": 1,
-        "rgb": 11010048
+        "rgb": 5046272
       }
     },
     {
@@ -74,6 +88,6 @@
   "repelStrength": 12.5300416905093,
   "linkStrength": 1,
   "linkDistance": 125,
-  "scale": 0.32133638605035797,
-  "close": true
+  "scale": 0.6316046762907417,
+  "close": false
 }

@@ -124,4 +124,7 @@ health check를 위한 라이브러리입니다
 ## [[@nestjs-axios|@nestjs/axios]]
 HTTP 요청 보내기 클라이언트 라이브러리인 axios의 NestJS 공식 라이브러리구요
 
+## [[@nestjs-cqrs|@nestjs/cqrs]]
+[[CQRS|CQRS]]를 NestJS에서 쉽게 구현할 수 있도록 하는 공식 NestJS 라이브러리
+
 # Express 계열
