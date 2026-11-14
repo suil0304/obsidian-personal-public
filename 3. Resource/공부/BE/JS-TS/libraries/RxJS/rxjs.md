@@ -103,6 +103,8 @@ subject.next(1);
 고차 함수처럼 똑같습니다
 Observable이 next로 넘기는 값이 Observable이에요
 
+이를 처리하는 Operators에 대한 것은 [[rxjs#고차 Operators|여기]]를 참고하시구요
+
 # Subscription
 구독 정보를 관리하는 객체입니다
 Observable의 subscribe 반환값으로 획득할 수 있구요
