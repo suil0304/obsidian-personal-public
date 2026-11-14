@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "000c71e161ccdb74",
+        "id": "6e4b2f42019f396c",
         "type": "tabs",
         "children": [
           {
-            "id": "b2365451c25d208e",
+            "id": "fe6de8084d002ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/공부/BE/JS-TS/NestJS/libraries/@nestjs-terminus.md",
+                "file": "3. Resource/공부/BE/JS-TS/NestJS/libraries/@nestjs-cqrs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "@nestjs-terminus"
+              "title": "@nestjs-cqrs"
             }
           }
         ]
@@ -238,11 +238,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2365451c25d208e",
+  "active": "fe6de8084d002ffb",
   "lastOpenFiles": [
-    "3. Resource/공부/BE/JS-TS/NestJS/libraries/@nestjs-axios.md",
+    "3. Resource/공부/BE/용어/Eager-Lazy Read Derivation.md",
+    "3. Resource/공부/BE/JS-TS/NestJS/libraries/@nestjs-cqrs.md",
+    "3. Resource/공부/BE/용어/CQRS.md",
+    "3. Resource/공부/BE/용어/CQS.md",
+    "3. Resource/공부/BE/용어/용어.md",
+    "canvas/Untitled 1.canvas",
     "3. Resource/공부/BE/JS-TS/libraries/아주 맛깔진 백엔드 npm 라이브러리 모음.md",
     "3. Resource/공부/BE/JS-TS/NestJS/libraries/@nestjs-terminus.md",
+    "3. Resource/공부/BE/JS-TS/NestJS/libraries/@nestjs-axios.md",
     "3. Resource/공부/BE/JS-TS/NestJS/libraries/@nestjs-schedule.md",
     "3. Resource/공부/BE/JS-TS/libraries/node-cron.md",
     "bases/sidebar/링크 확인.base",
@@ -263,11 +269,6 @@
     "3. Resource/공부/BE/JS-TS/NestJS/로깅.md",
     "3. Resource/공부/BE/JS-TS/libraries/reflect-metadata.md",
     "3. Resource/공부/BE/JS-TS/NestJS/applyDecorators.md",
-    "3. Resource/공부/BE/JS-TS/NestJS/libraries/@nestjs-jwt.md",
-    "3. Resource/공부/BE/JS-TS/NestJS/커스텀 프로바이더.md",
-    "3. Resource/공부/BE/JS-TS/NestJS/커스텀 매개변수 데코레이터.md",
-    "3. Resource/공부/BE/용어/용어.md",
-    "3. Resource/공부/BE/용어/슬라이딩 세션.md",
     "3. Resource/공부/BE/JS-TS/libraries/Passport.js/Untitled",
     "3. Resource/공부/BE/JS-TS/libraries/Passport.js",
     "3. Resource/공부/BE/JS-TS",
@@ -281,7 +282,6 @@
     "3. Resource/공부/디자인/웹 디자인/심리학/images/공통 영역의 원리 highlighted.png",
     "3. Resource/공부/디자인/웹 디자인/심리학/images/G마켓.png",
     "4. Archive/Resource/software-old/컴포넌트 응집도 원칙 그림.png",
-    "canvas/Untitled 1.canvas",
     "canvas/Untitled.canvas",
     "image3.png",
     "image2.png",
