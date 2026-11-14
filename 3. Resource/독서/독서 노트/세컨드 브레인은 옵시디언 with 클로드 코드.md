@@ -14,9 +14,7 @@
 커버 이미지 url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAVPXiwDqbkrRS0-81KKyS0QS8PJJbJObxdElzmduHQ&s=10
 tags:
   - 독서
-aliases:
 ---
-%%aliases: 없으면 비워 두기/null로 두면 되겠구요%%
 
 # 내용 요약
 "생산성 빌리언 시안" 유튜브를 운영 중인 시안이 Obsidian을 어떻게 사용하는지, 생산성 프레임워크로 어떻게 자신의 노트를 정리하는지, AI에 어떻게 연결할 수 있는지를 알려줍니다.
